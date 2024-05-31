@@ -1,0 +1,34 @@
+h2{
+    color: black;background-color: aquamarine;
+}
+/* ID NAME*/
+#a{
+    color: blue;
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.b{
+    color: aliceblue;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.c{
+    /*BOx model*/
+    color: green;
+    background-color: cornsilk;
+    padding: 20px;
+    border-color: black;
+    border-width: 22px;
+    border-style: groove;
+    margin-top: 50px;
+    border-radius: 80px;
+    padding: 20px;
+}
+#a1{
+    border-spacing: 50px;
+
+}
+td{
+    border-style: double;
+}
